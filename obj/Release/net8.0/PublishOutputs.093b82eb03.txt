@@ -1,0 +1,7 @@
+D:\Preparation\DeployTest\output\DeployTest.exe
+D:\Preparation\DeployTest\output\appsettings.Development.json
+D:\Preparation\DeployTest\output\appsettings.json
+D:\Preparation\DeployTest\output\DeployTest.dll
+D:\Preparation\DeployTest\output\DeployTest.deps.json
+D:\Preparation\DeployTest\output\DeployTest.runtimeconfig.json
+D:\Preparation\DeployTest\output\DeployTest.pdb
